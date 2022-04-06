@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1606275583 source:c:\programacion1\parcialpandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Countries.h"
+	"Controller.h"
+	"Common.h"
+
+1606254540 source:c:\programacion1\parcialpandemia\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606254479 c:\programacion1\parcialpandemia\common.h
+
+1606263073 source:c:\programacion1\parcialpandemia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606273157 c:\programacion1\parcialpandemia\linkedlist.h
+
+1606262778 source:c:\programacion1\parcialpandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Countries.h"
+
+1606265554 source:c:\programacion1\parcialpandemia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Countries.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606262697 c:\programacion1\parcialpandemia\countries.h
+	"LinkedList.h"
+
+1606253737 c:\programacion1\parcialpandemia\parser.h
+
+1606265533 c:\programacion1\parcialpandemia\controller.h
+
+1606262724 source:c:\programacion1\parcialpandemia\countries.c
+	<stdio.h>
+	<stdlib.h>
+	"Countries.h"
+	<string.h>
+	<time.h>
+
+1610491137 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Countries.h"
+	"Controller.h"
+	"Common.h"
+
+1606273157 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\linkedlist.h
+
+1606262697 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\countries.h
+	"LinkedList.h"
+
+1606265533 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\controller.h
+
+1606254479 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\common.h
+
+1606254540 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606265554 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Countries.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606253737 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\parser.h
+
+1606275637 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\countries.c
+	<stdio.h>
+	<stdlib.h>
+	"Countries.h"
+	<string.h>
+	<time.h>
+
+1606263073 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606262778 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialpandemia\parcialpandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Countries.h"
+

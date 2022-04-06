@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1606266465 source:c:\programacion1\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\programacion1\parcialbicis\common.h
+
+1606273151 source:c:\programacion1\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606266351 c:\programacion1\parcialbicis\linkedlist.h
+
+1584205420 source:c:\programacion1\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606268219 source:c:\programacion1\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606275411 c:\programacion1\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606274341 source:c:\programacion1\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606266524 c:\programacion1\parcialbicis\parser.h
+
+1606274373 c:\programacion1\parcialbicis\controller.h
+
+1606275291 source:c:\programacion1\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606275459 source:c:\users\usuario\desktop\quino\ivoide\parcialbicis\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	"Common.h"
+
+1606266351 c:\users\usuario\desktop\quino\ivoide\parcialbicis\parcialbicis\linkedlist.h
+
+1606275411 c:\users\usuario\desktop\quino\ivoide\parcialbicis\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606274373 c:\users\usuario\desktop\quino\ivoide\parcialbicis\parcialbicis\controller.h
+
+1606266429 c:\users\usuario\desktop\quino\ivoide\parcialbicis\parcialbicis\common.h
+
+1606275291 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606275411 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606266351 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\linkedlist.h
+
+1606266465 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\common.h
+
+1606274341 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606266524 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\parser.h
+
+1606274373 c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\controller.h
+
+1606273151 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606275459 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	"Common.h"
+
+1606268219 source:c:\users\usuario\desktop\kplucci\quino\ivoide\parcialbicis\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606275459 source:c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	"Common.h"
+
+1606266351 c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\linkedlist.h
+
+1606275411 c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606274373 c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\controller.h
+
+1606266429 c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\common.h
+
+1606275291 source:c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606266465 source:c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606274341 source:c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606266524 c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\parser.h
+
+1606273151 source:c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606268219 source:c:\users\ianch\onedrive\escritorio\laboifinal\ivoide\parcialbicis\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+

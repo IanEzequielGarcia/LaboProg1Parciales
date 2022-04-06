@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1606266465 source:c:\programacion1\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\programacion1\parcialbicis\common.h
+
+1606273151 source:c:\programacion1\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606266351 c:\programacion1\parcialbicis\linkedlist.h
+
+1606309685 source:c:\programacion1\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	"Common.h"
+
+1606310143 source:c:\programacion1\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606309958 c:\programacion1\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606310153 source:c:\programacion1\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606310140 c:\programacion1\parcialbicis\parser.h
+
+1606274373 c:\programacion1\parcialbicis\controller.h
+
+1606309975 source:c:\programacion1\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606311865 source:c:\users\imetta\downloads\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606309958 c:\users\imetta\downloads\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606312517 c:\users\imetta\downloads\parcialbicis\linkedlist.h
+
+1606266465 source:c:\users\imetta\downloads\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\users\imetta\downloads\parcialbicis\common.h
+
+1606310153 source:c:\users\imetta\downloads\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606310140 c:\users\imetta\downloads\parcialbicis\parser.h
+
+1606274373 c:\users\imetta\downloads\parcialbicis\controller.h
+
+1606312519 source:c:\users\imetta\downloads\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606312894 source:c:\users\imetta\downloads\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	<time.h>
+	"Common.h"
+
+1606310916 source:c:\users\imetta\downloads\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606311865 source:c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1606309958 c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606312517 c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\linkedlist.h
+
+1606266465 source:c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\common.h
+
+1606310153 source:c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606310140 c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\parser.h
+
+1606274373 c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\controller.h
+
+1606312519 source:c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606310916 source:c:\users\usuario\desktop\quino\parcial labo pandemioa\parcialbicis\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1606266465 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\common.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"Common.h"
+
+1606266429 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\common.h
+
+1606312519 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606312517 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\linkedlist.h
+
+1606313281 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Controller.h"
+	<time.h>
+	"Common.h"
+
+1606309958 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\bicicleta.h
+	"LinkedList.h"
+
+1606274373 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\controller.h
+
+1611321085 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"Bicicleta.h"
+	<string.h>
+	<time.h>
+
+1611321085 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Controller.h"
+	<string.h>
+
+1606310140 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\parser.h
+
+1611321085 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\parcialbicis\parcialbicis\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+

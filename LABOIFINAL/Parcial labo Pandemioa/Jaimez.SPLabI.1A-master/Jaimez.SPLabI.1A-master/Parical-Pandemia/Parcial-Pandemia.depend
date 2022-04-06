@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1593614382 source:c:\users\luana\desktop\workspace\parcial-pandemia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593608398 c:\users\luana\desktop\workspace\parcial-pandemia\linkedlist.h
+
+1593607355 source:c:\users\luana\desktop\workspace\parcial-pandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+
+1593613929 c:\users\luana\desktop\workspace\parcial-pandemia\paises.h
+	"LinkedList.h"
+
+1593605412 source:c:\users\luana\desktop\workspace\parcial-pandemia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593605382 c:\users\luana\desktop\workspace\parcial-pandemia\utn.h
+
+1593615183 source:c:\users\luana\desktop\workspace\parcial-pandemia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"controller.h"
+	<string.h>
+
+1593607365 c:\users\luana\desktop\workspace\parcial-pandemia\parser.h
+
+1593615165 c:\users\luana\desktop\workspace\parcial-pandemia\controller.h
+
+1593613988 source:c:\users\luana\desktop\workspace\parcial-pandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"controller.h"
+
+1593614740 source:c:\users\luana\desktop\workspace\parcial-pandemia\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	<string.h>
+	<time.h>
+
+1593615766 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+	"parser.h"
+	"controller.h"
+	<string.h>
+
+1593615766 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\linkedlist.h
+
+1593615766 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\paises.h
+	"LinkedList.h"
+
+1593615766 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\parser.h
+
+1593615766 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\controller.h
+
+1593615766 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593615766 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	"controller.h"
+
+1593615766 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\paises.c
+	<stdio.h>
+	<stdlib.h>
+	"paises.h"
+	<string.h>
+	<time.h>
+
+1611584704 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+
+1593615766 source:c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593615766 c:\users\usuario\desktop\kplucci\parcial 2 laboratorio i\parcial labo pandemioa\jaimez.splabi.1a-master\jaimez.splabi.1a-master\parical-pandemia\utn.h
+
